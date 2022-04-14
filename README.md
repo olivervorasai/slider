@@ -1,4 +1,6 @@
 <div align="center">
+  
+  
   <a href="https://www.npmjs.com/package/@vueform/slider" target="_blank">
     <img alt="npm" src="https://img.shields.io/npm/dm/@vueform/slider?color=%2353ca2f">
   </a>
